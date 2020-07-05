@@ -1,0 +1,14 @@
+/target/
+/.classpath
+/.springBeans
+/.settings/
+/.project
+/bin/
+/.svn/
+/.idea
+/*.iml
+/*/*.iml
+/o2o-recommend-rpc/target/
+/o2o-recommend-api/target/
+/o2o-recommend-service/target/
+/nbactions.xml
